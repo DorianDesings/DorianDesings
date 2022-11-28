@@ -47,5 +47,5 @@
   </a>
 
   <a href="https://getbem.com/">
-  <img src="https://miro.medium.com/max/1000/1*AGA-0gdD017hFbxeRR7vdQ.png">
+  <img src="http://jennyknuth.com/wp-content/uploads/2018/03/BEM-1.png" target="_blank" rel="noreferrer" width="40" height="40" alt="BEM metodology">
   </a>
