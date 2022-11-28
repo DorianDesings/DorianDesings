@@ -51,5 +51,5 @@
   </a>
 
   <a href="https://sass-lang.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" target="_blank" rel="noreferrer" width="40" height="40" alt="BEM metodology">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
   </a>
